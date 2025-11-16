@@ -1,0 +1,9 @@
+app:
+  env: dev
+  port: 5001
+db:
+  host: localhost
+  user: admin
+  password: admin
+  name: transfers
+  port: 5432
